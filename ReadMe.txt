@@ -2,4 +2,3 @@ This small Python script takes the single .dat file from Kingdom and creates new
 Thus, only a single file now needs to be exported from Kingdom, saving the effort of exporting each profile individually.
 
 You're welcome
-Made by Beni
